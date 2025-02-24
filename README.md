@@ -15,7 +15,7 @@
   1. Bubble Sort
   2. Selection Sort
 
-  **For Windows** , Visual Studio is required, any suggestions on how to compile CSFML on windows are most welcome :).
+  **For Windows** , Visual Studio is required, any suggestions on how to compile CSFML on windows are most welcome .
 
 #### Technologies Used:
 
@@ -28,18 +28,5 @@
 - After doing sorting logically according to the respective sorts, it moves to next element.
 - Once the array is sorted, all the bars gets light up with different color.
 
-#### Working Application
 
-##### Bubble Sort:
 
-<img src="gif/Bubblesort.gif" width="750" height="380"/>
-
-##### Insertion Sort:
-
-<img src="gif/Insertionsort.gif" width="750" height="380"/>
-
-#### Authors :
-
-- [Suhani Sengar ](https://github.com/Suhani180)
-
-#### **Pull Requests are Welcomed, Giving A Star is appreciated**
