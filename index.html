@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorting Algorithms Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Sorting Algorithm Visualizer</h1>
+        <canvas id="sortingCanvas"></canvas>
+        <div class="controls">
+            <div class="buttons">
+                <button class="btn" onclick="startInsertionSort()">Insertion Sort</button>
+                <button class="btn" onclick="startBubbleSort()">Bubble Sort</button>
+                <button class="btn" onclick="startSelectionSort()">Selection Sort</button>
+            </div>
+            <div class="speed-control">
+                <label for="speed">Speed:</label>
+                <input type="range" id="speed" min="1" max="100" value="50" oninput="updateSpeed()">
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
+
