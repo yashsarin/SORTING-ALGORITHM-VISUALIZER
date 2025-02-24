@@ -1,4 +1,5 @@
-Sorting Algorithm Visualizer
+##Sorting Algorithm Visualizer##
+
 About Project:
 Sorting is this process of arranging a collection of elements in numerical or lexiographical order, either ascending or descending.
 
@@ -10,7 +11,8 @@ Sorts included in this projects are :
 
 Bubble Sort
 Selection Sort
-For Windows , Visual Studio is required, any suggestions on how to compile CSFML on windows are most welcome :).
+
+For Windows , Visual Studio is required, any suggestions on how to compile CSFML on windows are most welcome.
 
 Technologies Used:
 C
